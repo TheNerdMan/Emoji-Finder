@@ -1,0 +1,25 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Emoji Finder
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Emoji Finder</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <div id="container">
+    <strong>You use emoji's right?</strong>
+    <p>
+      Think you can find them in a crowd?
+    </p>
+    <ion-button (click)="play()">
+      Play <ion-icon name="play-circle-outline"></ion-icon>
+    </ion-button>
+  </div>
+</ion-content>
