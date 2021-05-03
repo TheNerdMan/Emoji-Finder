@@ -1,9 +1,14 @@
-This app is a cyclic difference set match generator.
+# Summary
 
-The cyclic difference set is {0, 1, 3, 13, 32 ,36, 43, 52}.
+This app is a cyclic difference set (CDS) match generator.
 
-Akin to the game dobble (Spot it, in the US).
+The base CDS for a popular card game is {0, 1, 3, 13, 32 ,36, 43, 52}.
+
+This game is called [Dobble](https://www.dobblegame.com/en/homepage/) ([Spot it!](https://www.spotitgame.com/), in the US).
 
 See this video for some information and to jog the memory
 
 [![Youtube-Video](https://img.youtube.com/vi/VTDKqW_GLkw/0.jpg)](https://youtu.be/VTDKqW_GLkw?t=891)
+
+## Further Reading
+[Cyclic Difference Sets - by Kris Coolsaet](http://www.inference.org.uk/cds/)
