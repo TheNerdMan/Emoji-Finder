@@ -12,3 +12,7 @@ See this video for some information and to jog the memory
 
 ## Further Reading
 [Cyclic Difference Sets - by Kris Coolsaet](http://www.inference.org.uk/cds/)
+
+The American Mathematical Monthly
+Vol. 13, No. 11, Nov., 1906 https://www.jstor.org/stable/i349244​
+Vol. 14, No. 5, May, 1907 https://www.jstor.org/stable/i349250
